@@ -1,0 +1,1 @@
+print("Hej! To jest moj pierwszy program!")
